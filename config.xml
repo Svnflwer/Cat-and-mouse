@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.svnflwer.catandmouse" version="1.0.0" xmlns="http://w3.org">
+    <name>Cat and Mouse</name>
+    <description>Моя первая мобильная игра!</description>
+    <author>Svnflwer</author>
+    <content src="index.html" />
+    <preference name="Orientation" value="portrait" />
+</widget>
